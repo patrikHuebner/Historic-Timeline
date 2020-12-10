@@ -1,0 +1,33 @@
+/*
+MOBILE VIEW: LANDSCAPE
+*/
+@media screen and (max-height: 500px) and (orientation:landscape) {
+}
+
+
+/*
+MOBILE VIEW: PORTRAIT
+*/
+@media screen and (max-width: 640px) {
+}
+
+
+/*
+TABLETS / IPADS: PORTRAIT
+*/
+@media screen and (max-width: 768px) {
+}
+
+
+/*
+TABLETS / IPADS: LANDSCAPE
+*/
+@media screen and (max-width: 1024px) {
+}
+
+
+/*
+WIDESCREEN ABOVE 1280px WIDTH
+*/
+@media screen and (min-width: 1280px) {
+}

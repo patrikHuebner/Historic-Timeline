@@ -1,0 +1,33 @@
+/* -- GENERAL
+  --------------------------------------------- */
+
+  html {
+    background: #f5f5f5;
+  }
+  
+  body {
+    background: #f5f5f5;
+    margin: 0px;
+    overflow: hidden;
+    font-family: 'Roboto';
+    user-select: none;
+  }
+  
+  #versionInfo {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 10px;
+    color: #000;
+    pointer-events: none;
+
+    right: 35px;
+    bottom: 30px;
+    transform: rotate(-90deg) translate(100%, 0);
+    transform-origin: right bottom;
+  }
+  
+  /* .vis-item {
+    color: #fff;
+    background: #000;
+    border: #000;
+  } */
