@@ -18,17 +18,42 @@ body {
   font-family: 'Roboto';
   font-size: 10px;
   color: #000;
-  pointer-events: none;
 
-  right: 35px;
   bottom: 30px;
-  transform: rotate(-90deg) translate(100%, 0);
-  transform-origin: right bottom;
-
-  display: none;
+  right: 30px;
+}
+#versionInfo a, #versionInfo a:visited{
+  color: #000;
+}
+#versionInfo a:hover {
+  text-decoration: none;
 }
 
 
+/* -- UI STYLINGS
+  --------------------------------------------- */
+
+#zoomControls {
+  position: absolute;
+  top: 90px;
+  left: 20px;
+}
+
+#zoomControls div {
+  width: 50px;
+  height: 50px;
+  background: #000;
+  cursor: pointer;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+#zoomControls div img {
+  width: 25px;
+  margin: 13px 0 0 13px;
+}
+#zoomControls div:hover {
+  opacity: 0.8;
+}
 
 
 /* -- HORIZONTAL TIME LINE STYLING

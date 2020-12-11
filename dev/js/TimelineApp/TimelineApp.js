@@ -2,7 +2,7 @@ import { DataSet, Timeline } from "vis-timeline/standalone";
 import historicData from '../database.json';
 import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
-import moment from 'moment';
+import UI from './UI.js';
 
 export default class TimelineApp {
 
@@ -29,6 +29,9 @@ export default class TimelineApp {
 
         // Create horizontal timeline
         this.createHorizontalTimeline();
+
+        // Attach UI components
+        this.UI = new UI(this);
     }
 
 
@@ -103,7 +106,6 @@ export default class TimelineApp {
 
             // CONTENT
             obj.content = obj['Was'];
-            // obj.group = 0;
 
             // START
             let startDate = obj['Von'];
@@ -120,7 +122,6 @@ export default class TimelineApp {
             } else {
                 obj.type = 'point';
             }
-
 
             // TOOLTIP
             let timeRange = '';
@@ -180,7 +181,7 @@ export default class TimelineApp {
             showCurrentTime: false,
             // zoomable: false,
             // horizontalScroll: true,
-            orientation: {axis: 'both'},
+            orientation: { axis: 'both' },
             zoomMin: 10000000000,
 
             // Template output (connect to tippy.js)

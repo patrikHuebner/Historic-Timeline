@@ -14,7 +14,6 @@ export default class App {
 		this.getHashVersion();
 		this.addListeners();
 		this.initTimelineApp();
-		// this.animate();
 
 		if (process.env.NODE_ENV == 'production') { }
 	}
@@ -31,19 +30,9 @@ export default class App {
 
 
 	addListeners() {
-		// request animation frame
-		this.handlerAnimate = this.animate.bind(this);
-
 		// keypresses
 		window.addEventListener('resize', this.resize.bind(this));
 		window.addEventListener('keyup', this.keyup.bind(this));
-	}
-
-
-
-	animate() {
-		this.render();
-		this.raf = requestAnimationFrame(this.handlerAnimate);
 	}
 
 
@@ -54,29 +43,6 @@ export default class App {
 
 
 
-
-	// ---------------------------------------------------------------------------------------------
-	// PUBLIC
-	// ---------------------------------------------------------------------------------------------
-
-
-
-	render() {
-		this.update();
-		this.draw();
-	}
-
-
-
-	update() {
-		//this.frameCount++;
-	}
-
-
-	
-	draw() {
-		// if (this.sketch) { this.sketch.update(); }
-	}
 
 
 

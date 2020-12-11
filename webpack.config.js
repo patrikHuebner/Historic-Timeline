@@ -45,6 +45,7 @@ module.exports = {
     resolve: {
         alias: {
             'fontAssets': path.resolve(__dirname, 'dist/assets/fonts'),
+            'iconAssets': path.resolve(__dirname, 'dist/assets/icons'),
         }
     },
     devServer: {
