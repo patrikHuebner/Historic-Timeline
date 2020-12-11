@@ -69,7 +69,7 @@ export default class App {
 
 
 	update() {
-		this.frameCount++;
+		//this.frameCount++;
 	}
 
 
@@ -89,7 +89,7 @@ export default class App {
 		width = window.innerWidth;
 		height = window.innerHeight;
 
-		// if (this.sketch) { this.sketch.resize(); }
+		if (this.timelineApp) { this.timelineApp.resize(); }
 	}
 
 

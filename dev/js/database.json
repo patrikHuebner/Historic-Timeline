@@ -13,7 +13,8 @@
             "Material": "Obernkirchener Sandstein",
             "Thema": "Westfälische Hallengotik",
             "Assoziation (Jahr)": "1248, Bau des Kölner Doms",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Bau des Kölner Doms",
@@ -26,14 +27,16 @@
             "Material": "Wetter-unbeständiger Stein",
             "Attribute / Symbole": "Dom & Kirchen symbolisieren Gott",
             "Notizen": "Steinvolumen des Doms entspricht dem Steinvolumen der Pyramide von Gizeh",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Klimawandel (der Neuzeit)",
             "Von": "1950",
             "Bis": "2020",
             "Kontext": "\"Attacke\" auf die Kulturdenkmäler der Welt durch den Klimawandel. Angriff auf die Bausubstanz und Existenz dieser Objekte.",
-            "Schlagworte": "Weltereignis, Ereignis"
+            "Schlagworte": "Weltereignis, Ereignis",
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Entdeckung Amerikas",
@@ -44,7 +47,8 @@
             "Wirkung": "\"Beginn der Neuzeit\"",
             "Intention": "Suche nach transatlantischem Seeweg, Machtvergrößerung, Handel",
             "Assoziation (Jahr)": "Ende der Kreuzzüge",
-            "Schlagworte": "Weltereignis, Ereignis"
+            "Schlagworte": "Weltereignis, Ereignis",
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Gotik",
@@ -53,7 +57,8 @@
             "Stil": "Gotik",
             "Technik": "⁃\tStil: Besteht nur aus Geometrie (\"Zirkel\" und \"Lineal\")\r\n\t⁃\tStil basiert auf dem Kreis\r\n\t⁃\t5/8 Chorschluss einer gotischen Kathedrale\r\n\t⁃\tHöhe kann erreicht werden ohne dicke Mauern\r\n\t- \tViel Faltenwurf bei z.B. Büsten / Skulpturen",
             "Attribute / Symbole": "Harmonie, die Größe Gottes, das Licht",
-            "Schlagworte": "Stilrichtung, Baustil"
+            "Schlagworte": "Stilrichtung, Baustil",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Karnevall in Deutschland fällt aus",
@@ -62,20 +67,23 @@
             "Kontext": "Coronapandemie, weltweit",
             "Wirkung": "Ventil für Katholiken und Gesellschaft fehlt. Kontrollierter gesellschaftlicher Ausbruch nicht möglich. Spürbare Isolation",
             "Thema": "Kirchliche Feste",
-            "Schlagworte": "Ereignis"
+            "Schlagworte": "Ereignis",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Freilegung verschollener Reliefszenen",
             "Von": "11/10/20",
             "Wer": "Dr. Christian Leitz",
             "Wo": "Ägypten",
-            "Schlagworte": "Archäologie"
+            "Schlagworte": "Archäologie",
+            "Gruppe": "Archäologie"
         },
         {
             "Was": "Sarkophag-Funde in Luxor",
             "Von": "10/19/19",
             "Wo": "Ägypten",
-            "Schlagworte": "Archäologie"
+            "Schlagworte": "Archäologie",
+            "Gruppe": "Archäologie"
         },
         {
             "Was": "Fund des Sarkophags von Tutanchamun",
@@ -84,7 +92,8 @@
             "Wo": "Ägypten",
             "Kontext": "Fund/Ausgrabung: Kampf der Kolonialmächte um Macht, Prestige und Vorherschaft",
             "Assoziation (Jahr)": "2013, Ausstellung in Berlin",
-            "Schlagworte": "Archäologie"
+            "Schlagworte": "Archäologie",
+            "Gruppe": "Archäologie"
         },
         {
             "Was": "Fund der Büste Nofretete",
@@ -92,7 +101,8 @@
             "Wer": "Ludwig Borchardt",
             "Wo": "Ägypten",
             "Kontext": "Fund/Ausgrabung: Kampf der Kolonialmächte um Macht, Prestige und Vorherschaft",
-            "Schlagworte": "Archäologie"
+            "Schlagworte": "Archäologie",
+            "Gruppe": "Archäologie"
         },
         {
             "Was": "Romanik",
@@ -103,7 +113,8 @@
             "Intention": "Referenz an die Ursprüunge des Christentums. Referenz an die römische Kultur und den römischen Baustil. Demonstration von Größe und Macht",
             "Technik": "Bau nur mit dicken Wänden möglich. Daher ist dies eine Bautechnik mit dem  wichtigen Stilmittel des Rundbogens",
             "Assoziation (Jahr)": "ca. 300 v.Chr., Römische Architektur",
-            "Schlagworte": "Stilrichtung, Baustil"
+            "Schlagworte": "Stilrichtung, Baustil",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Zerrstörung Neues Museum, Berlin",
@@ -112,7 +123,8 @@
             "Kontext": "Zweiter Weltkrieg",
             "Stil": "Klassizismus",
             "Assoziation (Jahr)": "Ausstellung ägyptischer Funde, u.a. Tutanchamun, Nofretete, Zweiter Weltkrieg",
-            "Schlagworte": "Ereignis, Museum"
+            "Schlagworte": "Ereignis, Museum",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Henri James Simon",
@@ -125,7 +137,8 @@
             "Attribute / Symbole": "Schenkung der Büste der Nofretete, die er dem Neuen Mseum schenkte",
             "Notizen": "Wohlhabender Unternehmer, Betrieb mit seinem Bruder das wohl bedeutendste Baumwollunternehmen Europas (zur dieser Zeit)",
             "Assoziation (Jahr)": "Kaiser Wilhelm II., Neues Museum",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Historismus",
@@ -134,7 +147,8 @@
             "Kontext": "Industrialisierungszeitalter. Innovationen führten dazu das die Menschen wussten nicht mehr wie sie bauen sollten",
             "Stil": "Historismus",
             "Technik": "Stilistische Unterarten sind beispielsweise die Neoromanik, Neogotik, Neorenaissance, der Neobyzantinismus und der Neobarock",
-            "Schlagworte": "Stilrichtung, Baustil"
+            "Schlagworte": "Stilrichtung, Baustil",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Christentum",
@@ -145,7 +159,8 @@
             "Wirkung": "Entstehung einer Weltreligion mit ca 2,2 Mrd. Anhängern (2020) weltweit. ",
             "Notizen": "Ausprägung in fünf Hauptgruppen: die römisch-katholische Kirche, die orthodoxen Kirchen, die protestantischen, die anglikanischen Kirchen und die Pfingstbewegung",
             "Assoziation (Jahr)": "Jesus von Nazaret",
-            "Schlagworte": "Weltreligion, Religion"
+            "Schlagworte": "Weltreligion, Religion",
+            "Gruppe": "Religion"
         },
         {
             "Was": "Jesus von Nazaret",
@@ -156,7 +171,8 @@
             "Kontext": "Handeln und Wirken zur Vorherrschaft des römischen Reiches",
             "Intention": "Verkündigung der „Königsherrschaft Gottes“. Aufbrechen bestehender Strukturen",
             "Assoziation (Jahr)": "Christentum, Rom",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Michaelangelo",
@@ -169,7 +185,8 @@
             "Intention": "u.a. Entdeckung des Körpers, (Wieder-)Entdeckung der Perspektive, Naturstudium",
             "Material": "u.a. Marmor",
             "Notizen": "Einer der bedeutendsten Künstler der italienischen Hochrenaissance",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Renaissance",
@@ -180,7 +197,8 @@
             "Wirkung": "Entstehung expressiver Ausdrucksweisen in der Früh-Renaissance, geprägt auch durch byzantinische Künstler.",
             "Intention": "Wiederbelebung der kulturellen Leistungen der griechischen und römischen Antike gekennzeichnet. Rückbesinnung auf Geist und Formen der Antike",
             "Notizen": "In der Früh-Renaissance: Korrekte Perspektive in der Kunst ist noch nicht möglich. Später: Mit der Entdeckung der Perspektive erhält die Darstellung des Raumes eine neue Expressivität.",
-            "Schlagworte": "Stilrichtung"
+            "Schlagworte": "Stilrichtung",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Neogotik",
@@ -189,13 +207,15 @@
             "Kontext": "Die Neugotik zählt zu den frühesten stilistischen Unterarten des Historismus, der auf Kunst- und Architekturstile der vorausgegangenen zwei Jahrtausende zurückgriff. ",
             "Stil": "Neogotik",
             "Assoziation (Jahr)": "Historismus",
-            "Schlagworte": "Stilrichtung, Baustil"
+            "Schlagworte": "Stilrichtung, Baustil",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Blitzeinschlag in der Neustädter Marienkirche",
             "Von": "1704",
             "Wo": "Bielefeld",
-            "Schlagworte": "Ereignis"
+            "Schlagworte": "Ereignis",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Zweiter Weltkrieg",
@@ -205,7 +225,8 @@
             "Kontext": "Wirtschaftskrise nach erstem Weltkrieg, Aufkommen des Nationalsozialismus, Vorzeichen der Globalisierung (globaler Krieg)",
             "Wirkung": "60-80 Million Tote (geschätzt), erster Einsatz einer Atomwaffe, Gründung der UNO, weltpolitische Neustrukturierung von Macht",
             "Thema": "Krieg",
-            "Schlagworte": "Weltereignis, Ereignis"
+            "Schlagworte": "Weltereignis, Ereignis",
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Barock",
@@ -213,7 +234,8 @@
             "Bis": "1760",
             "Kontext": "Dem Barock voraus gingen die Epochen der Renaissance und des Manierismus, ihm folgte der Klassizismus.",
             "Stil": "Barock",
-            "Schlagworte": "Stilrichtung, Baustil"
+            "Schlagworte": "Stilrichtung, Baustil",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Industrialisierung Deutschlands",
@@ -223,7 +245,8 @@
             "Kontext": "Folgt auf die Zeiträume der Vor- und Frühindustrialisierung",
             "Wirkung": "Entstehung neuer Arbeitsplätze, regionale Verdichtung, Förderung von Kernindustrieren wie z.B. Eisenbahnbau",
             "Notizen": "Zeitraumangabe ist strittig und abhängig davon wer zitiert wird",
-            "Schlagworte": "Epoche"
+            "Schlagworte": "Epoche",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Romantik",
@@ -231,7 +254,8 @@
             "Bis": "1920",
             "Kontext": "Schnelllebiege Zeit, Pandemie (u.a. Spanische Grippe)",
             "Notizen": "Der Zeitraum ist abhängig vom betrachteten Bereich (Literatur, Musik, Kunst)",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Bau des Louvre",
@@ -241,18 +265,19 @@
             "Stil": "Barock-Klassizismus",
             "Intention": "\"Kunst ist Macht\", größtes Museum der Welt",
             "Notizen": "Bis 1682 residierten dort verschiedene französische Könige",
-            "Schlagworte": "Architektur, Museum"
+            "Schlagworte": "Architektur, Museum",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Bau des Pergamonmuseums",
             "Von": "1930",
-            "Bis": "1930",
             "Wer": "Alfred Messel",
             "Wo": "Berlin",
             "Stil": "Klassizismus",
             "Intention": "Feiern des \"neuen Berlins\", Ausdruck kultureller Dominanz",
             "Notizen": "Seit 1999 ist das Museum mit 1,5 Mio. Besuchern das am meisten besuchte deutsche Kunstmuseum",
-            "Schlagworte": "Architektur, Museum"
+            "Schlagworte": "Architektur, Museum",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Bau des Ägyptischen Museums",
@@ -262,7 +287,8 @@
             "Kontext": "(Reaktion auf) Plünderung von ägyptischer Kunst und Geschichte",
             "Stil": "Klassizismus",
             "Intention": "Ausdruck von Macht, Schaffung des größten ägyptischen Museums",
-            "Schlagworte": "Architektur, Museum"
+            "Schlagworte": "Architektur, Museum",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Heinz Gappmayr",
@@ -272,7 +298,8 @@
             "Kontext": "Arbeit und Entwicklung der künstlerischen Konzepte in den 1950er Jahren",
             "Stil": "Konkrete Poesie, Visuelle Poesie",
             "Intention": "Sprache selbst als Kunstgegenstand in den Mittelpunkt zu stellen",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Altes Ägyptisches Reich",
@@ -281,7 +308,8 @@
             "Wo": "Ägypten",
             "Kontext": "Die älteste der drei klassichen Perioden. Umfasste die 3. bis 6. Dynastie an Herrschern.",
             "Wirkung": "Bildung des ägyptischen Staates. Entstehung und Blüte der Hochkultur. ",
-            "Schlagworte": "Epoche, Periode"
+            "Schlagworte": "Epoche, Periode",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Cheops-Pyramide",
@@ -292,7 +320,8 @@
             "Material": "Kalkstein",
             "Notizen": "Die älteste und größte der drei Pyramiden von Gizeh",
             "Assoziation (Jahr)": "7. Weltwunder, Altes Ägyptisches Reich, Pyarmiden von Gizeh",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Grabmal des König Mausolos II",
@@ -300,14 +329,16 @@
             "Bis": "-350",
             "Wo": "Türkei",
             "Wirkung": "Prägte den Begriff \"Mausoleum\", welches zum Begriff für \"großartige Grabanlage\" wurde",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Hängende Gärten des Semiramis",
             "Von": "-200",
             "Wo": "Babylon",
             "Technik": "Rohr mit Asphalt, Gipsmörtel, Bleiplatten",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Koloss von Rhodos",
@@ -315,26 +346,30 @@
             "Wo": "Griechenland",
             "Kontext": "In einer Zeit erfolgreicher Schiffahrt, welche zu viel Handel und Wohlstand führte",
             "Intention": "Dem Sonnengott Helios gewidmet. Ausdruck des Wohlstandes.",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Leuchtturm von Alexandria",
             "Von": "-299",
             "Bis": "-279",
             "Wo": "Ägypten",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Tempel der Artemis in Ephesos",
             "Von": "-800",
             "Wo": "Griechenland",
-            "Schlagworte": "Architektur, Weltwunder, Religion, Kirche"
+            "Schlagworte": "Architektur, Weltwunder, Religion, Kirche",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Zeusstatue des Phidias",
             "Von": "-456",
             "Wo": "Griechenland",
-            "Schlagworte": "Architektur, Weltwunder"
+            "Schlagworte": "Architektur, Weltwunder",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Stonehenge",
@@ -344,7 +379,8 @@
             "Kontext": "Errichtet in der Jungsteinzeit, genutzt bis mindestens in die Bronzezeit",
             "Material": "Menhire",
             "Notizen": "Übersetzt beudetet der Name \"hängende Steine\". Aufbau in verschiedenen Phasen von -3100 v. Chr. bis -1700 v. Chr.",
-            "Schlagworte": "Architektur"
+            "Schlagworte": "Architektur",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Ringheiligtum von Pömmelte",
@@ -352,21 +388,24 @@
             "Wo": "Deutschland",
             "Wirkung": "Besondere akustische Wirkung",
             "Intention": "Nutzung für Riten. Ein Ritualort für vielfältige religiöse Handlungen.",
-            "Schlagworte": "Architektur"
+            "Schlagworte": "Architektur",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Ende des römischen Reiches",
             "Von": "476",
             "Wo": "Italien",
             "Kontext": "Der letzte römische Kaiser stirbt",
-            "Schlagworte": "Epoche, Periode"
+            "Schlagworte": "Epoche, Periode",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Kreuzzüge",
             "Von": "1095",
             "Bis": "1492",
             "Intention": "Religiös und wirtschaftlich motivierte Kriege der lateinischen Kirche",
-            "Schlagworte": "Ereignis"
+            "Schlagworte": "Ereignis",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Pest in Europa",
@@ -374,7 +413,8 @@
             "Bis": "1353",
             "Wo": "Europa",
             "Wirkung": "Geschätzte 25 Millionen Todesopfer",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Französische Revolution",
@@ -382,7 +422,8 @@
             "Bis": "1799",
             "Wo": "Frankreich",
             "Wirkung": "Abschaffung des feudal-absolutistischen Ständestaats",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Erster Weltkrieg",
@@ -391,7 +432,8 @@
             "Wo": "Weltweit",
             "Kontext": "Der erste technisierte Weltkrieg der Menschheit. Im Umfeld von Hass auf deutscher und französischer Seite",
             "Thema": "Krieg",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Spanische Grippe",
@@ -399,7 +441,8 @@
             "Wo": "Weltweit",
             "Kontext": "Zeit vor der Technisierung, weniger Austausch möglich",
             "Wirkung": "50-80 Millionen in Folge",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Fall des Eisernen Vorhanges",
@@ -407,21 +450,24 @@
             "Wo": "Weltweit",
             "Kontext": "Ideologischer Konflikt zwischen \"Ost und West\". Marktwirtschaftliche, politische und soziale Differenzen in der Weltanschauung",
             "Wirkung": "Spaltung der Welt wird vorangetrieben, Handelskriege werden internationalisiert",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "9/11, Anschlag auf das World Trade Center",
             "Von": "2001",
             "Wo": "Amerika",
             "Wirkung": "Krieg im Irak, Syrien, Verstärung des globalen Terrors, Verstrickung von Amerika in vielen internationalen Konflikten",
-            "Schlagworte": "Ereignis, Weltgeschichte"
+            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Erfindung der Schrift",
             "Von": "-3400",
             "Wo": "Mesopotamien",
             "Wirkung": "Bis ins 1. Jhd. N. Chr. Wurde diese Schrift von vielen Völkern des Alten Orients verwendet",
-            "Schlagworte": "Ereignis, Erfindung"
+            "Schlagworte": "Ereignis, Erfindung",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Kretische Kunst",
@@ -430,7 +476,8 @@
             "Wo": "Griechenland",
             "Kontext": "Entsteht im Zentrum einer \"kollosalen Kultur\"",
             "Wirkung": "Die Wirkung dieser Zeit reicht bis zur heutigen Zeit und beeinflusst die Menschen nachhaltig",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Errichtung des Palast von Knossos",
@@ -439,7 +486,8 @@
             "Wer": "König Minos, u.a.",
             "Wo": "Griechenland",
             "Notizen": "Minos ist in der griechischen Mythologie der Sohn des Zeugs und der Europa und war ein König von Kreta",
-            "Schlagworte": "Architektur"
+            "Schlagworte": "Architektur",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Griechische Kunst",
@@ -448,7 +496,8 @@
             "Wo": "Griechenland",
             "Kontext": "Eine Epoche zwischen Untergang der bronzezeitlichen mykenischen Kultur und Verlust der griechischen Autonomie im Römischen Reich. Ist eine paralelle Kunst zur römischen Kunst.",
             "Wirkung": "Prägte u.a. die Idealvorstellung menschlicher Schönheit bis zum heutigen Tag",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Entstehung des Konzeptes der Tempel",
@@ -461,14 +510,16 @@
             "Material": "Oft Kalkstein aus Kalksteinbrüchen in der Nähe der Tempel",
             "Technik": "Gewinnung des Kalksteins mit einer \"Sprengtechnik\"",
             "Assoziation (Jahr)": "Brandenburger Tor, Berlin",
-            "Schlagworte": "Ereignis, Kultur, Architektur, Religion, Kirche"
+            "Schlagworte": "Ereignis, Kultur, Architektur, Religion, Kirche",
+            "Gruppe": "Religion"
         },
         {
             "Was": "Bau des Partheon",
             "Von": "-447",
             "Bis": "-432",
             "Wo": "Griechenland",
-            "Schlagworte": "Architektur"
+            "Schlagworte": "Architektur",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Volk der Etrusker",
@@ -478,7 +529,8 @@
             "Kontext": "Das Volk stammten wohl aus dem kleinasiatischen Raum",
             "Wirkung": "Bau von Städten und Stadtmauern mit monumentalen Toren, die bis heute erhalten sind",
             "Notizen": "Eines der wenigen Völker das keinen Krieg geführt hat.",
-            "Schlagworte": "Epoche, Kultur, Volk"
+            "Schlagworte": "Epoche, Kultur, Volk",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Römische Kunst",
@@ -487,7 +539,8 @@
             "Wo": "Italien, Europa",
             "Kontext": "Auf Basis der Etrusikischen Kunst. Die Römer lernten von den Etruskern die Verwendung des Rundbogens. Die Romanische Kunst basiert also auf der Kunst der Etrusker.",
             "Notizen": "Der angegebene Zeitraum bezieht sich auf die Antike römische Kunst bis zur frühchristlichen Zeit",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Frühchristliche Kunst",
@@ -496,7 +549,8 @@
             "Wo": "Italien, Europa",
             "Kontext": "Entstehung zuerst im Verborgenen, während des christlichen Aufkommens und Widerstandes",
             "Notizen": "Verbunden durch das \"Fisch Symbol\", genutzt wie ein Neuzeitiger \"Tag\"",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Christliche Religion wird anerkannt",
@@ -504,7 +558,8 @@
             "Wer": "Kaiser Konstantin der Große",
             "Wo": "Italien",
             "Wirkung": "Spaltung des römischen Reiches und dem öst-römischen Reiches, welches christlich war. Das christliche Ostrom entstand",
-            "Schlagworte": "Ereignis, Religion, Kirche"
+            "Schlagworte": "Ereignis, Religion, Kirche",
+            "Gruppe": "Religion"
         },
         {
             "Was": "Kaiser Konstantin der Große",
@@ -514,7 +569,8 @@
             "Wo": "Italien",
             "Kontext": "Kaiser während der Entstehung des Christentums",
             "Wirkung": "Regierte als Alleinherrscher - in \"Konstantinstadt\" (Konstantinopel)",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Byzantinische Kunst",
@@ -523,7 +579,8 @@
             "Wo": "Europa, Mittelmeer",
             "Kontext": "Entstehung auf Basis der römischen Kunst. Endet durch Eroberung von Byzanz durch die Osamen (1453, durch ein 80.000 Mann starkes Belagerungsheer, Sultan Mehmet II)",
             "Notizen": "Teilt sich in 1. spätantik-frühbyzantinische Zeit (300n. Chr. Bis zur Mitte des 7. Jhds.) 2. mittelbyzantinische Zeit (650 bis 1204 bzw. 1261) und 3. spätbyzantinische Zeit (1204 bzw. 1261 bis 1453)",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Byzantinisches Reich",
@@ -533,7 +590,8 @@
             "Kontext": "Entstand im Verlauf der Spätantike nach der so genannten Reichsteilung von 395 aus der östlichen Hälfte des Römischen Reiches.",
             "Wirkung": "\"Bollwerk\" der Christianisierung",
             "Notizen": "Blütezeit des Reiches im 6. und 7. Jhd. Unter Kaiser Justinian I. (des Großen, 482-565) Das Reich endete 1453, durch ein 80.000 Mann starkes Belagerungsheer, geführt von Sultan Mehmet II",
-            "Schlagworte": "Epoche, Kultur"
+            "Schlagworte": "Epoche, Kultur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Kaiser Justinian I. (der Große)",
@@ -544,14 +602,16 @@
             "Kontext": "Kaiser zur Blütezeit des byzantinischen Reichs",
             "Wirkung": "Er steht für den Übergang von der Spätantike zum Mittelalter (Kriege/Siege gegen Vandeln, Goten und German; Wiedererstarkung des Reichs, Recht, etc.)",
             "Notizen": "Machte seine Frau zur Kaiserin. Sehr frühes und seltenes Beispiel für Gleichberechtigung in der Geschichte.",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Hagia Sophia Moschee",
             "Von": "537",
             "Wo": "Türkei",
             "Notizen": "1935 wieder-eröffnet als Museum. In 2020 von Recep Tayyip Erdoğan unter weltweiter Kontroverse zur Moschee umgewandelt",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Mittelalter",
@@ -560,7 +620,8 @@
             "Kontext": "Beginnt mit dem Ende des römischen Reichs (mit dem Tod des letzten Kaisers) und zum Zeitpunkt zur Entdeckung Amerikas.",
             "Wirkung": "Zeitraum religiöser Spannungsfelder zwischen \"Heiden\" und \"Christen\"",
             "Assoziation (Jahr)": "Entdeckung Amerikas (1492)",
-            "Schlagworte": "Epoche, Kulur"
+            "Schlagworte": "Epoche, Kulur",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Marco Polo",
@@ -572,14 +633,16 @@
             "Wirkung": "Schaffte durch seine Reiseberichte einen Einblick in die weitgehend unbekannte und rätselhafte Welt Indiens, Chinas und der Mongolen",
             "Intention": "Seine Reiseberichte dienten, für ihn persönlich, in erster Linie der Herstellung von Geschäftskontakten",
             "Notizen": "Kaufmann, Unternehmer, Seefahrer. Er lebte von 1276 bis 1292 (am mongolischen Hof) in der Verbotenen Stadt (heute in Peking)",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Kathedrale von Modena",
             "Wo": "Italien",
             "Kontext": "Das alte Modena (Mutina) war eine blühende römische Kolonie an der Via Emilia",
             "Stil": "Romanik",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Buddhismus",
@@ -589,7 +652,8 @@
             "Wirkung": "Der Buddhismus hat weltweit je nach Quelle und Zählweise zwischen 230 und 500 Millionen",
             "Intention": "Hat als sein Zentrum nicht die Verehrung eines allmächtigen Gottes. Es handelt sich bei der Lehre mehr um umfangreiche philosophisch-logische Überlegungen.",
             "Notizen": "Der Buddhismus stammt aus Indien und ist heute am meisten in Süd-, Südost- und Ostasien verbreitet. „Buddha“ bedeutet wörtlich „der Erwachte“",
-            "Schlagworte": "Weltreligion, Religion"
+            "Schlagworte": "Weltreligion, Religion",
+            "Gruppe": "Religion"
         },
         {
             "Was": "Mailänder Dom",
@@ -599,7 +663,8 @@
             "Stil": "Gotik",
             "Intention": "Sinnbild der Macht der lombardischen Visconti-Familie",
             "Notizen": "Die größte Kathedrale der Welt, 158 Meter lang, 58 Meter breit, 46,8 Meter hoch",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Lösung der Künstler von der Kirche",
@@ -610,7 +675,8 @@
             "Wirkung": "Zeit der großen Entdeckungen, eine \"Neue Welt\" tut sich auf, Technik, Handel und Wirtschaft erhalten zunehmen neue Impulse.",
             "Notizen": "Entdeckung der Perspektive, Interesse am Körper.",
             "Assoziation (Jahr)": "Renaissance",
-            "Schlagworte": "Ereignis, Epoche, Kultur, Stilrichtung, Religion, Kirche"
+            "Schlagworte": "Ereignis, Epoche, Kultur, Stilrichtung, Religion, Kirche",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Leonard Da Vinci",
@@ -620,7 +686,8 @@
             "Kontext": "Wirken in Rahmen einer \"Neuen Zeit\", der Renaissance, der Lösung von Kunst zur Kirche",
             "Wirkung": "Er gilt als einer der berühmtesten Universalgelehrten aller Zeiten. Er gilt auch als der größte aller Künstler.",
             "Notizen": "Maler, Bildhauer, Architekt, Anatom, Mechaniker, Ingenieur und Naturphilosoph",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Mona Lisa",
@@ -632,21 +699,24 @@
             "Stil": "Sfumato (Technik des Weichzeichnens, entwickelt durch Leonardo Da Vinci)",
             "Wirkung": "Das Portrait blickt dem Betrachter direkt ins Auge. Dies gab es zuvor nicht.",
             "Intention": "Versuch, den Gesichtsausdruck als Spiegelbild der Seele wiederzugeben.",
-            "Schlagworte": "Kunstwerk, Kunst, Kultur"
+            "Schlagworte": "Kunstwerk, Kunst, Kultur",
+            "Gruppe": "Ereignis"
         },
         {
             "Was": "Petersdom",
             "Von": "1506",
             "Bis": "1626",
             "Wo": "Vatikan",
-            "Schlagworte": "Architektur, Kirche, Religion"
+            "Schlagworte": "Architektur, Kirche, Religion",
+            "Gruppe": "Architektur"
         },
         {
             "Was": "Protorenaissance",
             "Von": "1280",
             "Bis": "1400",
             "Kontext": "Zeit vor der Prägung des Stils der Renaissance",
-            "Schlagworte": "Stilrichtung"
+            "Schlagworte": "Stilrichtung",
+            "Gruppe": "Stilrichtung"
         },
         {
             "Was": "Giorgio Vasari",
@@ -656,7 +726,8 @@
             "Kontext": "Gefördert durch die Medici. Lebte zur Zeit und umgeben von Leonardo da Vinci, Raffael und Michelangelo. Er trug dazu bei das durch seine Biografien über dieser Künstler Wissen über sie bis heute existiert.",
             "Wirkung": "Gilt als erster Kunsthistoriker. Prägte Stilbegriffe der Kunsthistorik. Er führte den Begriff der Gotik ein.",
             "Notizen": "War Architekt und Hofmaler",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         },
         {
             "Was": "Medici",
@@ -665,7 +736,8 @@
             "Wo": "Italien",
             "Wirkung": "Prägten u.a. Bankensysteme, Geld, Zahlungsverkehre, etc. der Neuzeit. Sie förderten Künstler und Kunst. Sie prägten die Renaissance durch diese Förderungen.",
             "Notizen": "Die Medici erwarben ihren Reichtum im Textilhandel",
-            "Schlagworte": "Kunst, Kultur, Gesellschaft, Dynastie"
+            "Schlagworte": "Kunst, Kultur, Gesellschaft, Dynastie",
+            "Gruppe": "Epoche"
         },
         {
             "Was": "Palladio",
@@ -675,7 +747,8 @@
             "Wo": "Italien",
             "Stil": "Renaissance",
             "Wirkung": "War der bedeutendste Architekt der Renaissance",
-            "Schlagworte": "Person"
+            "Schlagworte": "Person",
+            "Gruppe": "Person"
         }
     ]
 }
