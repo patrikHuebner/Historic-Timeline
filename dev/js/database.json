@@ -321,7 +321,7 @@
             "Notizen": "Die älteste und größte der drei Pyramiden von Gizeh",
             "Assoziation (Jahr)": "7. Weltwunder, Altes Ägyptisches Reich, Pyarmiden von Gizeh",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Grabmal des König Mausolos II",
@@ -330,7 +330,7 @@
             "Wo": "Türkei",
             "Wirkung": "Prägte den Begriff \"Mausoleum\", welches zum Begriff für \"großartige Grabanlage\" wurde",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Hängende Gärten des Semiramis",
@@ -338,7 +338,7 @@
             "Wo": "Babylon",
             "Technik": "Rohr mit Asphalt, Gipsmörtel, Bleiplatten",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Koloss von Rhodos",
@@ -347,7 +347,7 @@
             "Kontext": "In einer Zeit erfolgreicher Schiffahrt, welche zu viel Handel und Wohlstand führte",
             "Intention": "Dem Sonnengott Helios gewidmet. Ausdruck des Wohlstandes.",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Leuchtturm von Alexandria",
@@ -355,21 +355,21 @@
             "Bis": "-279",
             "Wo": "Ägypten",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Tempel der Artemis in Ephesos",
             "Von": "-800",
             "Wo": "Griechenland",
             "Schlagworte": "Architektur, Weltwunder, Religion, Kirche",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Zeusstatue des Phidias",
             "Von": "-456",
             "Wo": "Griechenland",
             "Schlagworte": "Architektur, Weltwunder",
-            "Gruppe": "Architektur"
+            "Gruppe": "Weltwunder"
         },
         {
             "Was": "Stonehenge",
@@ -405,7 +405,7 @@
             "Bis": "1492",
             "Intention": "Religiös und wirtschaftlich motivierte Kriege der lateinischen Kirche",
             "Schlagworte": "Ereignis",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Pest in Europa",
@@ -414,7 +414,7 @@
             "Wo": "Europa",
             "Wirkung": "Geschätzte 25 Millionen Todesopfer",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Französische Revolution",
@@ -423,7 +423,7 @@
             "Wo": "Frankreich",
             "Wirkung": "Abschaffung des feudal-absolutistischen Ständestaats",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Erster Weltkrieg",
@@ -433,7 +433,7 @@
             "Kontext": "Der erste technisierte Weltkrieg der Menschheit. Im Umfeld von Hass auf deutscher und französischer Seite",
             "Thema": "Krieg",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Spanische Grippe",
@@ -442,7 +442,7 @@
             "Kontext": "Zeit vor der Technisierung, weniger Austausch möglich",
             "Wirkung": "50-80 Millionen in Folge",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Fall des Eisernen Vorhanges",
@@ -451,7 +451,7 @@
             "Kontext": "Ideologischer Konflikt zwischen \"Ost und West\". Marktwirtschaftliche, politische und soziale Differenzen in der Weltanschauung",
             "Wirkung": "Spaltung der Welt wird vorangetrieben, Handelskriege werden internationalisiert",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "9/11, Anschlag auf das World Trade Center",
@@ -459,7 +459,7 @@
             "Wo": "Amerika",
             "Wirkung": "Krieg im Irak, Syrien, Verstärung des globalen Terrors, Verstrickung von Amerika in vielen internationalen Konflikten",
             "Schlagworte": "Ereignis, Weltgeschichte",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Erfindung der Schrift",
@@ -467,7 +467,7 @@
             "Wo": "Mesopotamien",
             "Wirkung": "Bis ins 1. Jhd. N. Chr. Wurde diese Schrift von vielen Völkern des Alten Orients verwendet",
             "Schlagworte": "Ereignis, Erfindung",
-            "Gruppe": "Ereignis"
+            "Gruppe": "Weltereignis"
         },
         {
             "Was": "Kretische Kunst",
@@ -477,7 +477,7 @@
             "Kontext": "Entsteht im Zentrum einer \"kollosalen Kultur\"",
             "Wirkung": "Die Wirkung dieser Zeit reicht bis zur heutigen Zeit und beeinflusst die Menschen nachhaltig",
             "Schlagworte": "Epoche, Kultur",
-            "Gruppe": "Epoche"
+            "Gruppe": "Kunstepoche"
         },
         {
             "Was": "Errichtung des Palast von Knossos",
@@ -497,7 +497,7 @@
             "Kontext": "Eine Epoche zwischen Untergang der bronzezeitlichen mykenischen Kultur und Verlust der griechischen Autonomie im Römischen Reich. Ist eine paralelle Kunst zur römischen Kunst.",
             "Wirkung": "Prägte u.a. die Idealvorstellung menschlicher Schönheit bis zum heutigen Tag",
             "Schlagworte": "Epoche, Kultur",
-            "Gruppe": "Epoche"
+            "Gruppe": "Kunstepoche"
         },
         {
             "Was": "Entstehung des Konzeptes der Tempel",
@@ -540,7 +540,7 @@
             "Kontext": "Auf Basis der Etrusikischen Kunst. Die Römer lernten von den Etruskern die Verwendung des Rundbogens. Die Romanische Kunst basiert also auf der Kunst der Etrusker.",
             "Notizen": "Der angegebene Zeitraum bezieht sich auf die Antike römische Kunst bis zur frühchristlichen Zeit",
             "Schlagworte": "Epoche, Kultur",
-            "Gruppe": "Epoche"
+            "Gruppe": "Kunstepoche"
         },
         {
             "Was": "Frühchristliche Kunst",
@@ -550,7 +550,7 @@
             "Kontext": "Entstehung zuerst im Verborgenen, während des christlichen Aufkommens und Widerstandes",
             "Notizen": "Verbunden durch das \"Fisch Symbol\", genutzt wie ein Neuzeitiger \"Tag\"",
             "Schlagworte": "Epoche, Kultur",
-            "Gruppe": "Epoche"
+            "Gruppe": "Kunstepoche"
         },
         {
             "Was": "Christliche Religion wird anerkannt",
@@ -638,9 +638,12 @@
         },
         {
             "Was": "Kathedrale von Modena",
+            "Von": "1099",
+            "Bis": "1184",
             "Wo": "Italien",
             "Kontext": "Das alte Modena (Mutina) war eine blühende römische Kolonie an der Via Emilia",
             "Stil": "Romanik",
+            "Notizen": "Die ursprüunglichen zwei Kirchen an der Stelle der heutigen Kathedrale wurden zerstört.",
             "Schlagworte": "Architektur, Kirche, Religion",
             "Gruppe": "Architektur"
         },

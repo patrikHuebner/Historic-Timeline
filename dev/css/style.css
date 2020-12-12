@@ -22,9 +22,12 @@ body {
   bottom: 30px;
   right: 30px;
 }
-#versionInfo a, #versionInfo a:visited{
+
+#versionInfo a,
+#versionInfo a:visited {
   color: #000;
 }
+
 #versionInfo a:hover {
   text-decoration: none;
 }
@@ -47,10 +50,12 @@ body {
   border-radius: 50%;
   margin-bottom: 10px;
 }
+
 #zoomControls div img {
   width: 25px;
   margin: 13px 0 0 13px;
 }
+
 #zoomControls div:hover {
   opacity: 0.8;
 }
@@ -68,16 +73,40 @@ body {
   font-weight: bold !important;
 }
 
-/* .vis-item {
-  background: rgba(0,0,0,0.3);
-  border: #000;
+.vis-selected {
+  border-color: #cfd8f3 !important;
+  background: #cfd8f3 !important;
+}
+/* .vis-selected.vis-point {
+  border-color: #cfd8f3 !important;
+  background: rgba(207,216,243,0.3) !important;
 } */
+
+.vis-point .vis-selected {
+  border-color: #000 !important;
+}
+
+.vis-item {
+  background: #d2d2d2;
+}
+
+.vis-item.vis-range {
+  border: 1px solid #d2d2d2;
+}
+
+.vis-item {
+  border-color: #000;
+}
 
 
 
 /* -- TOOLTIPS (TIPPY.JS-CONNECTION)
   --------------------------------------------- */
 
+
+.tippy-popper {
+  opacity: 0.8 !important;
+}
 
 .tooltipTitle {
   margin: 0;
@@ -92,4 +121,19 @@ body {
 .tooltip li {
   margin-bottom: 20px;
   list-style: none;
+}
+
+.locationIcon {
+  width: 12px;
+  height: 12px;
+  background: url(~iconAssets/map-marker-alt.svg) no-repeat;
+  display: inline-block;
+  margin: 0 2px 0 1px;
+}
+
+.timeIcon {
+  width: 12px;
+  height: 12px;
+  background: url(~iconAssets/clock.svg) no-repeat;
+  display: inline-block;
 }
