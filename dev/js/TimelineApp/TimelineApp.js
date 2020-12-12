@@ -128,8 +128,14 @@ export default class TimelineApp {
 
             // TOOLTIP
             let timeRange = '';
-            if (obj['Von'] != undefined) { timeRange += obj['Von']; }
-            if (obj['Bis'] != undefined) { timeRange += ' bis ' + obj['Bis']; }
+            if (obj['Von'] != undefined) { 
+                timeRange += obj['Von'];
+                if (parseFloat(obj['Von']) < 0) timeRange+= ' v.Chr.'
+            }
+            if (obj['Bis'] != undefined) { 
+                timeRange += ' bis ' + obj['Bis'];
+                if (parseFloat(obj['Bis']) < 0) timeRange+= ' v.Chr.'
+            }
             let tooltip = '<h2 class="tooltipTitle">' + obj['Was'] + '</h2>'
 
             tooltip += '<br/>';
@@ -195,6 +201,9 @@ export default class TimelineApp {
             orientation: { axis: 'both' },
             zoomMin: 10000000000,
 
+
+
+
             // Template output (connect to tippy.js)
             template: function (item, element, data) {
                 // For all entries (not stacked elements) create a tippy component
@@ -204,10 +213,6 @@ export default class TimelineApp {
                         placement: 'left',
                         delay: [0, 0],
                     });
-
-                    // $(element.parentElement).addClass('Group-' + data.group);
-                    //element.addClass('Group-'+data.group);
-                    //console.log(data.group)
                 }
 
                 // Return html data content to DOM
@@ -280,48 +285,6 @@ export default class TimelineApp {
             }
         });
     }
-
-
-
-    // attachHorizontalTimelineEvents() {
-    //     let that = this;
-    //     this.timeline.on('select', function (props) {
-
-    //         // create empty array to hold ids of items with the same class name
-    //         var sameClassNameIds = []
-
-    //         // selected item/s ids given to you as an array on selection
-    //         if (props.items.length > 0) {
-    //             // define a variable which get and hold the selected item's object by filtering the timeline
-    //             var selectedItem = that.items.get({
-    //                 filter: function (item) {
-    //                     //return id from timeline matching id in props.items
-    //                     return props.items.indexOf(item.id) !== -1;
-    //                 }
-    //             });
-
-    //             // here is the selected item's className
-    //             var selectedClassName = selectedItem[0].className
-
-    //             // retrieve all items with the above className
-    //             var sameClassNameItems = that.items.get({
-    //                 filter: function (item) {
-    //                     //return items from timeline matching query
-    //                     return item.className === selectedClassName;
-    //                 }
-    //             });
-
-    //             // loop over retrieved array of items pushing each item id into an array
-    //             sameClassNameItems.forEach(function (item) {
-    //                 sameClassNameIds.push(item.id)
-    //             })
-
-    //             // feed the setSelection method the array of ids you'd like it to select and highlight
-    //             that.timeline.setSelection(sameClassNameIds);
-    //         }
-
-    //     });
-    // }
 
 
 }

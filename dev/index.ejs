@@ -9,7 +9,9 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="Patrik Huebner, www.patrik-huebner.com">
-    <title><%= htmlWebpackPlugin.options.title %></title>
+    <title>
+        <%= htmlWebpackPlugin.options.title %>
+    </title>
 
     <style>
         html,
@@ -26,8 +28,9 @@
 
     <!-- VERSION INFO -->
     <div id="versionInfo">
-        <%= htmlWebpackPlugin.options.title %>. Copyright &copy; 2020 <a href="https://www.patrik-huebner.com" target="_blank">Patrik H&uuml;bner</a><br>
-        Version: <span id="hashValue"></span>
+        <%= htmlWebpackPlugin.options.title %>. Copyright &copy; 2020 <a href="https://www.patrik-huebner.com"
+                target="_blank">Patrik H&uuml;bner</a><br>
+            Version: <span id="hashValue"></span>
     </div>
 
 
@@ -36,8 +39,19 @@
 
     <!-- ZOOM CONTROL OVERLAY -->
     <div id="zoomControls">
-        <div id="zoomIn"><img src="/assets/icons/search-plus.svg" alt="Zoom in"/></div>
-        <div id="zoomOut"><img src="/assets/icons/search-minus.svg" alt="Zoom out"/></div>
+        <div id="zoomIn"><img src="/assets/icons/search-plus.svg" alt="Zoom in" /></div>
+        <div id="zoomOut"><img src="/assets/icons/search-minus.svg" alt="Zoom out" /></div>
+    </div>
+
+    <div id="groupSegmentation">
+        <h3>Gruppen-Segmentierung</h3>
+        <div id="removeAllSelections">× Gesamte Auswahl entfernen</div>
+        <span>Sie können die unten stehenden Gruppierungen durch ankreuzen aktivieren. Dies segmentiert die Einträge
+            des Zeitstrahls in separate visuelle Bereiche.</span>
+        <div id="groupSegmentationConatiner">
+            <ul>
+            </ul>
+        </div>
     </div>
 
 </body>
