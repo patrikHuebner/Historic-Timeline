@@ -104,7 +104,15 @@ body {
 /* -- TOOLTIPS (TIPPY.JS-CONNECTION)
   --------------------------------------------- */
 
-
+.primaryGroup {
+  font-size: 12px;
+  background: #cfd8f3;
+  border-radius: 2px;
+  display: inline-block;
+  color: #000;
+  padding: 5px;
+  margin: 5px 0 5px 0;
+}
 .tippy-popper {
   opacity: 0.8 !important;
 }
@@ -146,7 +154,6 @@ body {
 
 #groupSegmentation {
   margin-left: 30px;
-  /* width: 800px; */
 }
 #groupSegmentation h3 {
   float: left;
@@ -155,7 +162,6 @@ body {
   font-size: 15px;
   padding: 21px 0 0 57px;
   cursor: pointer;
-  /* display: inline-block; */
   display: none;
 }
 #removeAllSelections:hover {
@@ -184,4 +190,25 @@ body {
   font-size: 13px;
   width: 132px;
   float: left;
+}
+
+
+
+
+
+/* -- NETWORK GRAPH
+  --------------------------------------------- */
+
+#networkGraph {
+  display: none;
+
+  position: absolute;
+  width: 95%;
+  height: 95%;
+  top: 2.5%;
+  left: 2.5%;
+  background: #fff;
+
+  -webkit-box-shadow: 0px 0px 32px 9px rgba(0,0,0,0.5); 
+  box-shadow: 0px 0px 32px 9px rgba(0,0,0,0.5);  
 }

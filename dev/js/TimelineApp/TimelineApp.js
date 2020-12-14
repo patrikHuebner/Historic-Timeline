@@ -1,8 +1,9 @@
-import { DataSet, Timeline } from "vis-timeline/standalone";
+import { DataSet, Timeline } from 'vis-timeline/standalone';
 import historicData from '../database.json';
 import tippy from 'tippy.js';
 import 'tippy.js/dist/tippy.css';
 import UI from './UI.js';
+import NetworkGraph from './NetworkGraph.js';
 
 export default class TimelineApp {
 
@@ -34,6 +35,9 @@ export default class TimelineApp {
 
         // Attach UI components
         this.UI = new UI(this);
+
+        // // Initialize the network graph
+        // this.network = new NetworkGraph(this.app, this);
     }
 
 
@@ -137,14 +141,12 @@ export default class TimelineApp {
                 if (parseFloat(obj['Bis']) < 0) timeRange+= ' v.Chr.'
             }
             let tooltip = '<h2 class="tooltipTitle">' + obj['Was'] + '</h2>'
-
-            tooltip += '<br/>';
+            tooltip += '<div class="primaryGroup">' + obj['Gruppe'] + '</div><p/>';
             tooltip += '<span class="timeIcon"></span> '+timeRange;
             if (obj['Wo'] != undefined) tooltip += '<br/><span class="locationIcon"></span>' + obj['Wo'];
 
             if (obj['Kontext'] != undefined) tooltip += '<p/>Kontext: ' + obj['Kontext'];
 
-            tooltip += '<p/><i style="font-size: 10px;">Primäre Einordnung &rarr; ' + obj['Gruppe'] + '</i>';
             tooltip += '<br/><i style="font-size: 10px;">Weitere Schlagworte &rarr;  ' + obj['Schlagworte'] + '</i>';
             // tooltip += '<hr span style="margin: 20px 0 20px 0"/>';
             // tooltip += '<ul class="tooltip">';

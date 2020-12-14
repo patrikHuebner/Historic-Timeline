@@ -18,6 +18,7 @@ export default class UI {
     init() {
         this.attachZoomHandler();
         this.attachGroupSegmentation();
+        jQuery('#preloader').remove();
     }
 
 

@@ -21,10 +21,41 @@
             width: 100%;
             height: 100%;
         }
+
+        #preloader {
+            width: 100%;
+            height: 100%;
+            background: #fff;
+            top: 0;
+            left: 0;
+            position: absolute;
+            z-index: 10000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #preloader h2 {
+            font-size: 36px;
+        }
+        #preloaderText {
+            font-size: 12px;
+        }
     </style>
 </head>
 
 <body>
+
+    <!-- VERSION INFO -->
+    <div id="preloader">
+        <div id="preloadContainer">
+            <h2>Interaktiver Zeitstrahl</h2>
+            <p />
+            <div id="preloaderText">
+                Entwickelt im Rahmen der Veranstaltung "Einführung in die Kunst- und Kulturgeschichte<br />
+                Digital Media and Experiment, WS/2020, Prof. Andreas Beaugrand
+            </div>
+        </div>
+    </div>
 
     <!-- VERSION INFO -->
     <div id="versionInfo">
@@ -43,6 +74,7 @@
         <div id="zoomOut"><img src="/assets/icons/search-minus.svg" alt="Zoom out" /></div>
     </div>
 
+    <!-- UI: GROUP SEGMENTATION -->
     <div id="groupSegmentation">
         <h3>Gruppen-Segmentierung</h3>
         <div id="removeAllSelections">× Gesamte Auswahl entfernen</div>
@@ -53,6 +85,11 @@
             </ul>
         </div>
     </div>
+
+
+    <!-- NETWORK GRAPH -->
+    <div id="networkGraph"></div>
+
 
 </body>
 
