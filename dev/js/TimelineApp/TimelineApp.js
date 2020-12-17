@@ -40,6 +40,7 @@ export default class TimelineApp {
         this.network = new NetworkGraph(this.app, this);
 
         // jQuery('#networkContainer').css({ display: 'block' });
+        // jQuery('#networkContainerElementDetails').html(this.items.get(2).tooltip)
         // this.network.createNetworkVisualization(2);
     }
 

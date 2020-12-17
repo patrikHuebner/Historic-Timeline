@@ -124,10 +124,6 @@ body {
   padding: 0;
 }
 
-.tooltip {
-  /* padding: 0; */
-  /* list-style-type: none; */
-}
 
 .tooltip li {
   margin-bottom: 10px;
@@ -269,7 +265,11 @@ body {
 
 #networkContainerElementDetails {
   position: absolute;
-  left: 2.5%;
+  left: 1.5%;
   top: 5%;
   width: 20%;
+}
+#networkContainerElementDetails .tooltip li {
+  margin-bottom: 20px;
+  font-size: 16px;
 }
