@@ -34,9 +34,11 @@
             justify-content: center;
             align-items: center;
         }
+
         #preloader h2 {
             font-size: 36px;
         }
+
         #preloaderText {
             font-size: 12px;
         }
@@ -59,8 +61,9 @@
 
     <!-- VERSION INFO -->
     <div id="versionInfo">
-        <%= htmlWebpackPlugin.options.title %>. Copyright &copy; 2020 <a href="https://www.patrik-huebner.com"
-                target="_blank">Patrik H&uuml;bner</a><br>
+        <%= htmlWebpackPlugin.options.title %>, 2020 <a href="https://www.patrik-huebner.com" target="_blank">Patrik
+                H&uuml;bner</a>, Matr.Nr.: 1249026<br />
+            Digital Media and Experiment (DMX), FH Bielefeld<br />
             Version: <span id="hashValue"></span>
     </div>
 
@@ -88,7 +91,27 @@
 
 
     <!-- NETWORK GRAPH -->
-    <div id="networkGraph"></div>
+    <div id="networkContainer">
+        <div id="networkGraph"></div>
+        <div id="networkClose">×</div>
+
+        <!-- <h1 id="selectedObject"></h1> -->
+        <div id="networkContainerElementDetails"></div>
+
+        <div id="networkGraphTextContainer">
+            <div id="networkGraphTextTop">
+                <h2>Assoziativ-Ansicht</h2>
+                <p style>Diese Ansicht visualisiert das ausgewählte Element im Kontext seiner Gruppen-Nachbarn sowie den damit
+                    verbundenen physischen Orten und assozierten Schlagworten.</p>
+            </div>
+
+            <div id="networkTextContainerBottom">
+                <span style="font-size: 11px;">Bewegen Sie Ihre Maus über einzelne Objekte um deren Verbindungen zu
+                    visualisieren.</span>
+                <br><span style="font-size: 11px;">Nutzen Sie Ihr Mausrad um die Ansicht zu vergrößern.</span>
+            </div>
+        </div>
+    </div>
 
 
 </body>

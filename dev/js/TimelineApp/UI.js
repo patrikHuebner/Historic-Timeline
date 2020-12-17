@@ -17,7 +17,9 @@ export default class UI {
 
     init() {
         this.attachZoomHandler();
+        this.attachNetworkClick();
         this.attachGroupSegmentation();
+        this.attachNetworkCloseButton();
         jQuery('#preloader').remove();
     }
 
@@ -121,6 +123,26 @@ export default class UI {
             }
         });
 
+    }
+
+
+
+    attachNetworkClick() {
+        this.timelineApp.timeline.on("click", (e) => {
+            if (e.item != null) {
+                jQuery('#networkContainer').css({ display: 'block' });
+                // jQuery('#selectedObject').html(this.timelineApp.items.get(e.item).Was)
+                jQuery('#networkContainerElementDetails').html(this.timelineApp.items.get(e.item).tooltip)
+                this.timelineApp.network.createNetworkVisualization(e.item);
+            }
+        });
+    }
+
+
+    attachNetworkCloseButton() {
+        jQuery('#networkClose').on('click', function () {
+            jQuery('#networkContainer').css({ display: 'none' });
+        });
     }
 
 }
