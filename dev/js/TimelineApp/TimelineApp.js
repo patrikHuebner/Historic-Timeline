@@ -248,8 +248,6 @@ export default class TimelineApp {
         this.timeline.range.options.min = new Date(-7000, 1);
         this.timeline.range.options.max = new Date(7000, 12);
         // this.timeline.fit(); // or timeline.moveTo( date_within_your_data_set );
-
-
     }
 
 

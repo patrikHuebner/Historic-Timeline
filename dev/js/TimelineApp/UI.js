@@ -16,6 +16,7 @@ export default class UI {
 
 
     init() {
+        this.attachClickDragTutorial();
         this.attachZoomHandler();
         this.attachNetworkClick();
         this.attachGroupSegmentation();
@@ -38,6 +39,38 @@ export default class UI {
     // ---------------------------------------------------------------------------------------------
     // CLASS-SPECIFIC FUNCTIONS
     // ---------------------------------------------------------------------------------------------
+
+
+
+    attachClickDragTutorial() {
+        this.mouseDown = false;
+        this.mouseMoved = 0;
+        this.tutorialActive = true;
+        let that = this;
+
+        this.timelineApp.timeline.on('mouseDown', function (properties) {
+            that.mouseDown = true;
+        });
+        this.timelineApp.timeline.on('mouseUp', function (properties) {
+            that.mouseDown = false;
+        });
+        this.timelineApp.timeline.on('mouseMove', function (properties) {
+            if (that.tutorialActive) {
+                if (that.mouseDown) {
+                    that.mouseMoved++;
+                    if (that.mouseMoved > 20) {
+                        that.tutorialActive = false;
+                        jQuery('#guideWrapper').css({ opacity: 0 });
+
+                        setTimeout(function () {
+                            jQuery('#guideWrapper').remove()
+                        }, 2000);
+                    }
+                }
+            }
+        });
+    }
+
 
 
     attachZoomHandler() {
