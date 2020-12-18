@@ -13,7 +13,7 @@
             "Material": "Obernkirchener Sandstein",
             "Thema": "Westfälische Hallengotik",
             "Assoziation (Jahr)": "1248, Bau des Kölner Doms",
-            "Schlagworte": "Kirche, Religion, Gotik",
+            "Schlagworte": "Kirche,Religion,Gotik",
             "Gruppe": "Architektur",
             "Quelle": "https://www.neustadt-marien-bielefeld.de/gemeinde/"
         },
@@ -28,7 +28,7 @@
             "Material": "Wetter-unbeständiger Stein",
             "Attribute / Symbole": "Dom & Kirchen symbolisieren Gott",
             "Notizen": "Steinvolumen des Doms entspricht dem Steinvolumen der Pyramide von Gizeh",
-            "Schlagworte": "Kirche, Religion, Gotik",
+            "Schlagworte": "Kirche,Religion,Gotik",
             "Gruppe": "Architektur",
             "Quelle": "https://www.koelner-dom.de/erleben/geschichte"
         },
@@ -62,7 +62,8 @@
             "Technik": "⁃\tStil: Besteht nur aus Geometrie (\"Zirkel\" und \"Lineal\")\r\n\t⁃\tStil basiert auf dem Kreis\r\n\t⁃\t5/8 Chorschluss einer gotischen Kathedrale\r\n\t⁃\tHöhe kann erreicht werden ohne dicke Mauern\r\n\t- \tViel Faltenwurf bei z.B. Büsten / Skulpturen",
             "Attribute / Symbole": "Harmonie, die Größe Gottes, das Licht",
             "Schlagworte": "Baustil",
-            "Gruppe": "Stilrichtung"
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 30ff"
         },
         {
             "Was": "Karneval in Deutschland fällt aus",
@@ -110,7 +111,8 @@
             "Technik": "Bau nur mit dicken Wänden möglich. Daher ist dies eine Bautechnik mit dem  wichtigen Stilmittel des Rundbogens",
             "Assoziation (Jahr)": "ca. 300 v.Chr., Römische Architektur",
             "Schlagworte": "Baustil",
-            "Gruppe": "Stilrichtung"
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 22ff"
         },
         {
             "Was": "Zerrstörung Neues Museum, Berlin",
@@ -119,7 +121,7 @@
             "Kontext": "Zweiter Weltkrieg",
             "Stil": "Klassizismus",
             "Assoziation (Jahr)": "Ausstellung ägyptischer Funde, u.a. Tutanchamun, Nofretete, Zweiter Weltkrieg",
-            "Schlagworte": "Museum, Klassizismus",
+            "Schlagworte": "Museum,Klassizismus,Krieg",
             "Gruppe": "Ereignis",
             "Quelle": "https://www.deutschlandfunkkultur.de/im-neuen-glanz.1013.de.html?dram:article_id=169683"
         },
@@ -145,7 +147,8 @@
             "Stil": "Historismus",
             "Technik": "Stilistische Unterarten sind beispielsweise die Neoromanik, Neogotik, Neorenaissance, der Neobyzantinismus und der Neobarock",
             "Schlagworte": "Baustil",
-            "Gruppe": "Stilrichtung"
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S. 1, S.61"
         },
         {
             "Was": "Christentum",
@@ -157,7 +160,8 @@
             "Notizen": "Ausprägung in fünf Hauptgruppen: die römisch-katholische Kirche, die orthodoxen Kirchen, die protestantischen, die anglikanischen Kirchen und die Pfingstbewegung",
             "Assoziation (Jahr)": "Jesus von Nazaret",
             "Schlagworte": "Weltreligion",
-            "Gruppe": "Religion"
+            "Gruppe": "Religion",
+            "Quelle": "https://www.bpb.de/nachschlagen/lexika/das-europalexikon/176753/christentum-und-europa"
         },
         {
             "Was": "Jesus von Nazaret",
@@ -168,7 +172,8 @@
             "Kontext": "Handeln und Wirken zur Vorherrschaft des römischen Reiches",
             "Intention": "Verkündigung der „Königsherrschaft Gottes“. Aufbrechen bestehender Strukturen",
             "Assoziation (Jahr)": "Christentum, Rom",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "https://www.deutschlandfunk.de/jesus-ein-jude-aus-nazareth-ganz-einer-von-uns.886.de.html?dram:article_id=431008"
         },
         {
             "Was": "Michaelangelo",
@@ -182,7 +187,8 @@
             "Material": "u.a. Marmor",
             "Notizen": "Einer der bedeutendsten Künstler der italienischen Hochrenaissance",
             "Schlagworte": "Renaissance",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 55ff"
         },
         {
             "Was": "Renaissance",
@@ -193,7 +199,9 @@
             "Wirkung": "Entstehung expressiver Ausdrucksweisen in der Früh-Renaissance, geprägt auch durch byzantinische Künstler.",
             "Intention": "Wiederbelebung der kulturellen Leistungen der griechischen und römischen Antike gekennzeichnet. Rückbesinnung auf Geist und Formen der Antike",
             "Notizen": "In der Früh-Renaissance: Korrekte Perspektive in der Kunst ist noch nicht möglich. Später: Mit der Entdeckung der Perspektive erhält die Darstellung des Raumes eine neue Expressivität.",
-            "Gruppe": "Stilrichtung"
+            "Schlagworte": "Baustil",
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 82-84"
         },
         {
             "Was": "Neogotik",
@@ -203,7 +211,8 @@
             "Stil": "Neogotik",
             "Assoziation (Jahr)": "Historismus",
             "Schlagworte": "Baustil",
-            "Gruppe": "Stilrichtung"
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, Einband"
         },
         {
             "Was": "Blitzeinschlag in der Neustädter Marienkirche",
@@ -219,8 +228,9 @@
             "Kontext": "Wirtschaftskrise nach erstem Weltkrieg, Aufkommen des Nationalsozialismus, Vorzeichen der Globalisierung (globaler Krieg)",
             "Wirkung": "60-80 Million Tote (geschätzt), erster Einsatz einer Atomwaffe, Gründung der UNO, weltpolitische Neustrukturierung von Macht",
             "Thema": "Krieg",
-            "Schlagworte": "Ereignis",
-            "Gruppe": "Weltereignis"
+            "Schlagworte": "Ereignis,Krieg",
+            "Gruppe": "Weltereignis",
+            "Quelle": "https://www.lpb-bw.de/kriegsende-zweiter-weltkrieg"
         },
         {
             "Was": "Barock",
@@ -232,7 +242,8 @@
             "Intention": "Aus Sicht der Monarchen: Beeindrucken der Konkurrenten und Untertanen durch Prunkarchitektur.",
             "Notizen": "Mit Aufkommen des Barock wird begonnen die gotische Architektur vieler Kirchen umzubauen und zu \"modernisieren\".",
             "Schlagworte": "Baustil",
-            "Gruppe": "Stilrichtung"
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 48-57"
         },
         {
             "Was": "Industrialisierung Deutschlands",
@@ -242,7 +253,8 @@
             "Kontext": "Folgt auf die Zeiträume der Vor- und Frühindustrialisierung",
             "Wirkung": "Entstehung neuer Arbeitsplätze, regionale Verdichtung, Förderung von Kernindustrieren wie z.B. Eisenbahnbau",
             "Notizen": "Zeitraumangabe ist strittig und abhängig davon wer zitiert wird",
-            "Gruppe": "Epoche"
+            "Gruppe": "Epoche",
+            "Quelle": "https://www.bpb.de/geschichte/deutsche-geschichte/kaiserreich/139649/industrialisierung-und-moderne-gesellschaft"
         },
         {
             "Was": "Romantik",
@@ -251,7 +263,7 @@
             "Kontext": "Parallel zum Klassizismus. Gegenbewegung zum Realismus der zunehmend industriellen Welt. Schnelllebiege Zeit, Industrialisierung, Pandemie (u.a. Spanische Grippe)",
             "Wirkung": "Die Romantik betrifft hauptsächlich Kunst, äußerte sich aber auch in der Literatur, Musik und berührte Geschichte, Theologie, Philosophie, Naturwissenschaften und die Medizin",
             "Notizen": "Der Zeitraum ist abhängig vom betrachteten Bereich (Literatur, Musik, Kunst)",
-            "Schlagworte": "Kultur, Epoche",
+            "Schlagworte": "Kultur,Epoche",
             "Gruppe": "Stilrichtung"
         },
         {
@@ -262,7 +274,7 @@
             "Stil": "Barock-Klassizismus",
             "Intention": "\"Kunst ist Macht\", größtes Museum der Welt",
             "Notizen": "Bis 1682 residierten dort verschiedene französische Könige",
-            "Schlagworte": "Museum, Barock-Klassizismus",
+            "Schlagworte": "Museum,Barock-Klassizismus",
             "Gruppe": "Architektur"
         },
         {
@@ -273,7 +285,7 @@
             "Stil": "Klassizismus",
             "Intention": "Feiern des \"neuen Berlins\", Ausdruck kultureller Dominanz",
             "Notizen": "Seit 1999 ist das Museum mit 1,5 Mio. Besuchern das am meisten besuchte deutsche Kunstmuseum",
-            "Schlagworte": "Museum, Klassizismus",
+            "Schlagworte": "Museum,Klassizismus",
             "Gruppe": "Architektur"
         },
         {
@@ -284,7 +296,7 @@
             "Kontext": "(Reaktion auf) Plünderung von ägyptischer Kunst und Geschichte",
             "Stil": "Klassizismus",
             "Intention": "Ausdruck von Macht, Schaffung des größten ägyptischen Museums",
-            "Schlagworte": "Museum, Klassizismus",
+            "Schlagworte": "Museum,Klassizismus",
             "Gruppe": "Architektur"
         },
         {
@@ -357,7 +369,7 @@
             "Was": "Tempel der Artemis in Ephesos",
             "Von": "-800",
             "Wo": "Griechenland",
-            "Schlagworte": "Architektur, Religion, Kirche",
+            "Schlagworte": "Architektur,Religion,Kirche",
             "Gruppe": "Weltwunder"
         },
         {
@@ -398,7 +410,7 @@
             "Von": "1095",
             "Bis": "1492",
             "Intention": "Religiös und wirtschaftlich motivierte Kriege der lateinischen Kirche",
-            "Schlagworte": "Ereignis",
+            "Schlagworte": "Ereignis,Krieg",
             "Gruppe": "Weltereignis"
         },
         {
@@ -407,7 +419,7 @@
             "Bis": "1353",
             "Wo": "Europa",
             "Wirkung": "Geschätzte 25 Millionen Todesopfer",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte",
             "Gruppe": "Weltereignis"
         },
         {
@@ -416,7 +428,7 @@
             "Bis": "1799",
             "Wo": "Frankreich",
             "Wirkung": "Abschaffung des feudal-absolutistischen Ständestaats",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte",
             "Gruppe": "Weltereignis"
         },
         {
@@ -426,7 +438,7 @@
             "Wo": "Weltweit",
             "Kontext": "Der erste technisierte Weltkrieg der Menschheit. Im Umfeld von Hass auf deutscher und französischer Seite",
             "Thema": "Krieg",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte,Krieg",
             "Gruppe": "Weltereignis"
         },
         {
@@ -435,7 +447,7 @@
             "Wo": "Weltweit",
             "Kontext": "Zeit vor der Technisierung, weniger Austausch möglich",
             "Wirkung": "50-80 Millionen in Folge",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte",
             "Gruppe": "Weltereignis"
         },
         {
@@ -444,7 +456,7 @@
             "Wo": "Weltweit",
             "Kontext": "Ideologischer Konflikt zwischen \"Ost und West\". Marktwirtschaftliche, politische und soziale Differenzen in der Weltanschauung",
             "Wirkung": "Spaltung der Welt wird vorangetrieben, Handelskriege werden internationalisiert",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte",
             "Gruppe": "Weltereignis"
         },
         {
@@ -452,7 +464,7 @@
             "Von": "2001",
             "Wo": "Amerika",
             "Wirkung": "Krieg im Irak, Syrien, Verstärung des globalen Terrors, Verstrickung von Amerika in vielen internationalen Konflikten. Veränderung der Welt.",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte,Krieg",
             "Gruppe": "Weltereignis"
         },
         {
@@ -460,7 +472,7 @@
             "Von": "-3400",
             "Wo": "Mesopotamien",
             "Wirkung": "Bis ins 1. Jhd. N. Chr. Wurde diese Schrift von vielen Völkern des Alten Orients verwendet",
-            "Schlagworte": "Ereignis, Erfindung",
+            "Schlagworte": "Ereignis,Erfindung",
             "Gruppe": "Weltereignis"
         },
         {
@@ -470,7 +482,7 @@
             "Wo": "Griechenland",
             "Kontext": "Entsteht im Zentrum einer \"kollosalen Kultur\"",
             "Wirkung": "Die Wirkung dieser Zeit reicht bis zur heutigen Zeit und beeinflusst die Menschen nachhaltig",
-            "Schlagworte": "Epoche, Kultur",
+            "Schlagworte": "Epoche,Kultur",
             "Gruppe": "Kunstepoche"
         },
         {
@@ -489,7 +501,7 @@
             "Wo": "Griechenland",
             "Kontext": "Eine Epoche zwischen Untergang der bronzezeitlichen mykenischen Kultur und Verlust der griechischen Autonomie im Römischen Reich. Ist eine paralelle Kunst zur römischen Kunst.",
             "Wirkung": "Prägte u.a. die Idealvorstellung menschlicher Schönheit bis zum heutigen Tag",
-            "Schlagworte": "Epoche, Kultur",
+            "Schlagworte": "Epoche,Kultur",
             "Gruppe": "Kunstepoche"
         },
         {
@@ -503,7 +515,7 @@
             "Material": "Oft Kalkstein aus Kalksteinbrüchen in der Nähe der Tempel",
             "Technik": "Gewinnung des Kalksteins mit einer \"Sprengtechnik\"",
             "Assoziation (Jahr)": "Brandenburger Tor, Berlin",
-            "Schlagworte": "Ereignis, Kultur, Architektur,  Kirche",
+            "Schlagworte": "Ereignis,Kultur,Architektur,Kirche",
             "Gruppe": "Religion"
         },
         {
@@ -521,7 +533,7 @@
             "Kontext": "Das Volk stammten wohl aus dem kleinasiatischen Raum",
             "Wirkung": "Bau von Städten und Stadtmauern mit monumentalen Toren, die bis heute erhalten sind",
             "Notizen": "Eines der wenigen Völker das keinen Krieg geführt hat.",
-            "Schlagworte": "Kultur, Volk",
+            "Schlagworte": "Kultur,Volk",
             "Gruppe": "Epoche"
         },
         {
@@ -531,7 +543,7 @@
             "Wo": "Europa",
             "Kontext": "Auf Basis der Etrusikischen Kunst. Die Römer lernten von den Etruskern die Verwendung des Rundbogens. Die Romanische Kunst basiert also auf der Kunst der Etrusker.",
             "Notizen": "Der angegebene Zeitraum bezieht sich auf die Antike römische Kunst bis zur frühchristlichen Zeit",
-            "Schlagworte": "Epoche, Kultur",
+            "Schlagworte": "Epoche,Kultur",
             "Gruppe": "Kunstepoche"
         },
         {
@@ -541,7 +553,7 @@
             "Wo": "Europa",
             "Kontext": "Entstehung zuerst im Verborgenen, während des christlichen Aufkommens und Widerstandes",
             "Notizen": "Verbunden durch das \"Fisch Symbol\", genutzt wie ein Neuzeitiger \"Tag\"",
-            "Schlagworte": "Epoche, Kultur",
+            "Schlagworte": "Epoche,Kultur",
             "Gruppe": "Kunstepoche"
         },
         {
@@ -550,7 +562,7 @@
             "Wer": "Kaiser Konstantin der Große",
             "Wo": "Italien",
             "Wirkung": "Spaltung des römischen Reiches und dem öst-römischen Reiches, welches christlich war. Das christliche Ostrom entstand",
-            "Schlagworte": "Ereignis, Kirche",
+            "Schlagworte": "Ereignis,Kirche",
             "Gruppe": "Religion"
         },
         {
@@ -600,7 +612,7 @@
             "Von": "537",
             "Wo": "Türkei",
             "Notizen": "1935 wieder-eröffnet als Museum. In 2020 von Recep Tayyip Erdoğan unter weltweiter Kontroverse zur Moschee umgewandelt",
-            "Schlagworte": "Kirche, Religion",
+            "Schlagworte": "Kirche,Religion,Byzantinische Architektur",
             "Gruppe": "Architektur"
         },
         {
@@ -633,7 +645,7 @@
             "Kontext": "Das alte Modena (Mutina) war eine blühende römische Kolonie an der Via Emilia",
             "Stil": "Romanik",
             "Notizen": "Die ursprüunglichen zwei Kirchen an der Stelle der heutigen Kathedrale wurden zerstört.",
-            "Schlagworte": "Kirche, Religion, Romanik",
+            "Schlagworte": "Kirche,Religion,Romanik",
             "Gruppe": "Architektur"
         },
         {
@@ -655,7 +667,7 @@
             "Stil": "Gotik",
             "Intention": "Sinnbild der Macht der lombardischen Visconti-Familie",
             "Notizen": "Die größte Kathedrale der Welt, 158 Meter lang, 58 Meter breit, 46,8 Meter hoch",
-            "Schlagworte": "Kirche, Religion, Gotik",
+            "Schlagworte": "Kirche,Religion,Gotik",
             "Gruppe": "Architektur"
         },
         {
@@ -667,7 +679,7 @@
             "Wirkung": "Zeit der großen Entdeckungen, eine \"Neue Welt\" tut sich auf, Technik, Handel und Wirtschaft erhalten zunehmen neue Impulse.",
             "Notizen": "Entdeckung der Perspektive, Interesse am Körper.",
             "Assoziation (Jahr)": "Renaissance",
-            "Schlagworte": "Epoche, Kultur, Stilrichtung, Religion, Kirche, Renaissance",
+            "Schlagworte": "Epoche,Kultur,Stilrichtung,Religion,Kirche,Renaissance",
             "Gruppe": "Ereignis"
         },
         {
@@ -679,7 +691,8 @@
             "Wirkung": "Er gilt als einer der berühmtesten Universalgelehrten aller Zeiten. Er gilt auch als der größte aller Künstler.",
             "Notizen": "Maler, Bildhauer, Architekt, Anatom, Mechaniker, Ingenieur und Naturphilosoph",
             "Schlagworte": "Renaissance",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 53ff"
         },
         {
             "Was": "Mona Lisa",
@@ -691,15 +704,16 @@
             "Stil": "Sfumato",
             "Wirkung": "Das Portrait blickt dem Betrachter direkt ins Auge. Dies gab es zuvor nicht.",
             "Intention": "Versuch, den Gesichtsausdruck als Spiegelbild der Seele wiederzugeben.",
-            "Schlagworte": "Kunstwerk, Kunst, Kultur",
-            "Gruppe": "Ereignis"
+            "Schlagworte": "Kunstwerk,Kunst,Kultur",
+            "Gruppe": "Ereignis",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 54"
         },
         {
             "Was": "Petersdom",
             "Von": "1506",
             "Bis": "1626",
             "Wo": "Vatikan",
-            "Schlagworte": "Kirche, Religion",
+            "Schlagworte": "Kirche,Religion,Renaissance",
             "Gruppe": "Architektur"
         },
         {
@@ -707,6 +721,7 @@
             "Von": "1280",
             "Bis": "1400",
             "Kontext": "Zeit vor der Prägung des Stils der Renaissance",
+            "Schlagworte": "Baustil",
             "Gruppe": "Stilrichtung"
         },
         {
@@ -717,7 +732,8 @@
             "Kontext": "Gefördert durch die Medici. Lebte zur Zeit und umgeben von Leonardo da Vinci, Raffael und Michelangelo. Er trug dazu bei das durch seine Biografien über dieser Künstler Wissen über sie bis heute existiert.",
             "Wirkung": "Gilt als erster Kunsthistoriker. Prägte Stilbegriffe der Kunsthistorik. Er führte den Begriff der Gotik ein.",
             "Notizen": "War Architekt und Hofmaler",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 51"
         },
         {
             "Was": "Medici",
@@ -726,7 +742,7 @@
             "Wo": "Italien",
             "Wirkung": "Prägten u.a. Bankensysteme, Geld, Zahlungsverkehre, etc. der Neuzeit. Sie förderten Künstler und Kunst. Sie prägten die Renaissance durch diese Förderungen.",
             "Notizen": "Die Medici erwarben ihren Reichtum im Textilhandel",
-            "Schlagworte": "Kunst, Kultur, Gesellschaft, Dynastie",
+            "Schlagworte": "Kunst,Kultur,Gesellschaft,Dynastie",
             "Gruppe": "Epoche"
         },
         {
@@ -738,7 +754,8 @@
             "Stil": "Renaissance",
             "Wirkung": "War der bedeutendste Architekt der Renaissance",
             "Schlagworte": "Renaissance",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 68"
         },
         {
             "Was": "Rokkoko",
@@ -747,7 +764,9 @@
             "Kontext": "Entwickelte sich aus dem späten Barock. Ausgangspunkt war Frankreich",
             "Stil": "Rokkoko",
             "Notizen": "Der Begriff Rokoko wurde 1797 von dem Maler Pierre Maurice Quays geprägt.",
-            "Gruppe": "Stilrichtung"
+            "Schlagworte": "Baustil",
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 85"
         },
         {
             "Was": "Reformation",
@@ -766,7 +785,7 @@
             "Wo": "Europa",
             "Kontext": "Die europäischen Staaten können sich nicht einigen in welcher Religion die Menschen leben. Bisher wurde die Religion des jeweiligen Herrschers übernommen, diese Vormachtstellung schwindet jedoch.",
             "Thema": "Krieg",
-            "Schlagworte": "Ereignis, Weltgeschichte",
+            "Schlagworte": "Ereignis,Weltgeschichte",
             "Gruppe": "Weltereignis"
         },
         {
@@ -778,7 +797,8 @@
             "Stil": "Barock",
             "Wirkung": "Entsetzte seine Zeitgenossen durch authentische, realistische und nicht idealisierte Darstellungen \"normaler\" Menschen.",
             "Schlagworte": "Barock",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 55ff"
         },
         {
             "Was": "Jan Vermeer",
@@ -788,7 +808,8 @@
             "Wo": "Niederlande",
             "Stil": "Barock",
             "Schlagworte": "Barock",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S.106f"
         },
         {
             "Was": "Rembarandt Harmenszoon van Rijn",
@@ -800,7 +821,8 @@
             "Wirkung": "Prägte maßgeblich die Darstellung des Stillebens.",
             "Notizen": "Einer der bedeutendsten und bekanntesten niederländischen Künstler des Barocks",
             "Schlagworte": "Barock",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 104f"
         },
         {
             "Was": "Klassizismus",
@@ -810,7 +832,9 @@
             "Stil": "Klassizismus",
             "Wirkung": "Zitiert die Klassik, orientiert an der Antike und bildet so einen klaren Gegensatz zum Prunk des Barock",
             "Notizen": "Inspirierte u.a. durch die Städte Herculaneum und Paestum.",
-            "Gruppe": "Stilrichtung"
+            "Schlagworte": "Baustil",
+            "Gruppe": "Stilrichtung",
+            "Quelle": "Wilfried Koch: Kleine Stilkunde der Baukunst. Das bewährte Taschenlexikon mit über 1.100 Illustrationen, München 1991, S.1, S. 86"
         },
         {
             "Was": "Caspar David Friedrich",
@@ -821,7 +845,8 @@
             "Stil": "Romantik",
             "Wirkung": "Gilt als der bedeutendste Künstler der deutschen Frühromantik.",
             "Schlagworte": "Romantik",
-            "Gruppe": "Person"
+            "Gruppe": "Person",
+            "Quelle": "Volker Gebhardt: Kunstgeschichte Malerei. Köln, 1997, S. 129f"
         },
         {
             "Was": "Erfindung der Fotografie",
@@ -829,7 +854,7 @@
             "Wer": "Louis Jacques Mandé Daguerre ",
             "Kontext": "In Zeiten weitreichender gesellschaftlicher Veränderungen und technischer Entwicklungen.",
             "Wirkung": "Konkurrenz zur Malerei. Auswirkungen auf Wahrnehmung, Darstellung, sogar Träume der Menschen: Die Fotografie beeinflusst unser individuelles und kollektives Bewusstsein.",
-            "Schlagworte": "Ereignis, Erfindung",
+            "Schlagworte": "Ereignis,Erfindung",
             "Gruppe": "Weltereignis"
         },
         {
