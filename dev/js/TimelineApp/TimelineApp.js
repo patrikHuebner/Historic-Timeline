@@ -169,7 +169,7 @@ export default class TimelineApp {
             tooltip += '</ul>'
 
             if (obj['Schlagworte'] != undefined) tooltip += '<i style="font-size: 10px;">Weitere Schlagworte &rarr;  ' + obj['Schlagworte'] + '</i>';
-            if (obj['Quelle'] != undefined) tooltip += '<br/><i style="font-size: 10px;">Quelle: ' + obj['Quelle'] + '</i>';
+            if (obj['Quelle'] != undefined) tooltip += '<p/><i style="font-size: 10px; line-break: anywhere;">Quelle: ' + obj['Quelle'] + '</i>';
             obj.tooltip = tooltip;
 
             // STYLING

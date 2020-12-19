@@ -64,7 +64,7 @@ export default class UI {
 
                         setTimeout(function () {
                             jQuery('#guideWrapper').remove()
-                        }, 2000);
+                        }, 1000);
                     }
                 }
             }
