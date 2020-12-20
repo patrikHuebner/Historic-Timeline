@@ -6,8 +6,12 @@
     <meta http-equiv="Cache-control" content="max-age=0, no-cache, no-store, must-revalidate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="">
+    <meta name="description"
+        content="Interaktiver Zeitstrahl. Auf Basis der Vorlesung 'Einführung in die Kunst- und Kulturgeschichte', Prof. Beaugrand. WS2020, FH Bielefeld, Digital Media and Experiment.">
     <meta name="keywords" content="">
+    <meta property="og:image" content="assets/APP_icons/openGraphImage.jpg" />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/APP_icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="assets/APP_icons/favicon-96x96.png" sizes="96x96">
     <meta name="author" content="Patrik Huebner, www.patrik-huebner.com">
     <title>
         <%= htmlWebpackPlugin.options.title %>
@@ -16,7 +20,7 @@
     <style>
         html,
         body {
-            background: #000;
+            background: #f5f5f5;
             overflow: hidden;
             width: 100%;
             height: 100%;
@@ -25,7 +29,7 @@
         #preloader {
             width: 100%;
             height: 100%;
-            background: #fff;
+            background: #f5f5f5;
             top: 0;
             left: 0;
             position: absolute;
@@ -67,6 +71,12 @@
             Version: <span id="hashValue"></span>
     </div>
 
+    <!-- HELP BUTTON -->
+    <div id="helpButton">
+        <span id="helpIcon"></span>
+        <h3>Hilfe zur Benutzung</h3>
+    </div>
+
 
     <!-- HORIZONTAL TIMELINE CONTAINER -->
     <div id="horizontalTimeline"></div>
@@ -94,10 +104,7 @@
     <div id="networkContainer">
         <div id="networkGraph"></div>
         <div id="networkClose">×</div>
-
-        <!-- <h1 id="selectedObject"></h1> -->
         <div id="networkContainerElementDetails"></div>
-
         <div id="networkGraphTextContainer">
             <div id="networkGraphTextTop">
                 <h2>Assoziativ-Ansicht</h2>
@@ -115,7 +122,7 @@
     </div>
 
 
-
+    <!-- MOUSE TUTORIAL -->
     <div id="guideWrapper">
         <div class="guide">
             <svg xmlns="http://www.w3.org/2000/svg" class="mouse" width="40" height="58" viewBox="0 0 40 58">
@@ -135,6 +142,29 @@
             <p>Klicken und bewegen Sie die Maus horizontal sowie vertikal</p>
         </div>
     </div>
+
+
+
+    <!-- HELP VIDEO CONTAINER -->
+    <div id="helpVideoContainer">
+        <div id="helpClose">×</div>
+        <div id="tutorialVideo">
+            <video controls>
+                <source src="assets/video/InteraktiverZeitstrahl-Video.mp4" type="video/mp4">
+            </video>
+            <h3>↗ Dieses kurze Video erläutert die Funktionalität und Konzepte des interaktiven Zeitstrahls.</h3>
+        </div>
+    </div>
+
+
+    <!-- VIEWPORT TOO SMALL -->
+    <div id="viewportTooSmall">
+        <img src="assets/icons/desktop.svg" id="tooSmallIcon" alt="Viewport too small" />
+        <div id="viewportTooSmall_Text">Der interaktive Zeitstrahl wurde für die Benutzung auf Computern entwickelt.
+            Bitte benutzen Sie einen Computer oder erhöhen Sie die Größe des Browsers um diese Anwendung nutzen zu
+            können.</div>
+    </div>
+
 
 
 </body>

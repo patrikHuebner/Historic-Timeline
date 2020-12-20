@@ -2,6 +2,9 @@
 MOBILE VIEW: LANDSCAPE
 */
 @media screen and (max-height: 500px) and (orientation:landscape) {
+    #viewportTooSmall {
+        display: flex;
+    }
 }
 
 
@@ -9,6 +12,9 @@ MOBILE VIEW: LANDSCAPE
 MOBILE VIEW: PORTRAIT
 */
 @media screen and (max-width: 640px) {
+    #viewportTooSmall {
+        display: flex;
+    }
 }
 
 
@@ -16,6 +22,9 @@ MOBILE VIEW: PORTRAIT
 TABLETS / IPADS: PORTRAIT
 */
 @media screen and (max-width: 768px) {
+    #viewportTooSmall {
+        display: flex;
+    }
 }
 
 

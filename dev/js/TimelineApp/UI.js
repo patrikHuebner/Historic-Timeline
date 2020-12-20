@@ -16,6 +16,7 @@ export default class UI {
 
 
     init() {
+        this.attachHelp();
         this.attachClickDragTutorial();
         this.attachZoomHandler();
         this.attachNetworkClick();
@@ -40,6 +41,16 @@ export default class UI {
     // CLASS-SPECIFIC FUNCTIONS
     // ---------------------------------------------------------------------------------------------
 
+
+    attachHelp() {
+        jQuery('#helpButton').on('click', function () {
+            jQuery('#helpVideoContainer').css({ display: 'flex' });
+        });
+
+        jQuery('#helpClose').on('click', function () {
+            jQuery('#helpVideoContainer').css({ display: 'none' });
+        });
+    }
 
 
     attachClickDragTutorial() {
